@@ -1,0 +1,59 @@
+body{
+
+font-family: Arial;
+margin:0;
+background:#f4f4f4;
+
+}
+
+header{
+
+background:#003366;
+color:white;
+padding:30px;
+text-align:center;
+
+}
+
+.informes{
+
+padding:40px;
+
+}
+
+.lab{
+
+background:white;
+padding:20px;
+margin-bottom:20px;
+border-radius:8px;
+box-shadow:0px 2px 5px rgba(0,0,0,0.2);
+
+}
+
+.lab a{
+
+display:inline-block;
+margin-top:10px;
+padding:10px 15px;
+background:#0066cc;
+color:white;
+text-decoration:none;
+border-radius:5px;
+
+}
+
+.lab a:hover{
+
+background:#004999;
+
+}
+
+footer{
+
+text-align:center;
+padding:20px;
+background:#222;
+color:white;
+
+}
